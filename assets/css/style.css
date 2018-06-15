@@ -1,0 +1,38 @@
+.container-fluid {
+  padding: 0%;
+  color: white;
+}
+
+#primeraCaja {
+  background-color: salmon;
+}
+
+img {
+  width: 100%;
+}
+
+.franjita {
+  background-color: salmon;
+}
+
+#contenedor1 {
+  background-color: aqua;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+#contenedorTexto {
+  background-color: salmon;
+}
+
+#contenedorImgs {
+  background-color: aqua;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.img-thumbnail {
+  width: 100%;
+  padding: 5%;
+  margin: 5%;
+}
